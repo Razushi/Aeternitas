@@ -1,5 +1,3 @@
-<h1 id="header" align="center">
-  Incandescent
-</h1>
+# Greetings
 
-dotfiles
+This is a public facing repo that holds my configs whenever I need others to examine them. 
