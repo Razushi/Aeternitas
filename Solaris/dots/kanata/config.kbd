@@ -1,0 +1,13 @@
+;; Scythe's Kanata config, remaps some things
+
+(defsrc
+  caps
+)
+
+(defalias
+  esc2ctrl (tap-hold 100 100 esc lctrl)
+)
+
+(deflayer main
+  @esc2ctrl
+)
